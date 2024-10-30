@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#root {
+      background: linear-gradient(135deg, #a0ccffb6 0%, #c5f7ff 100%);
+      width: 100%;
+      min-height: 100vh;
+
+
+}

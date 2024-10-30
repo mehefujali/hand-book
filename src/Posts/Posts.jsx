@@ -6,7 +6,7 @@ const Posts = () => {
       console.log(data)
       return (
             <div className=" mt-20" >
-                  <div className=" grid grid-cols-3 w-full h-full gap-6">
+                  <div className=" grid grid-cols-3 w-full h-full gap-8">
                         {
                               data.map(post => <Post key={post.post_id} post={post}></Post>)
                         }
