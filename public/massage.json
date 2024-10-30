@@ -1,0 +1,52 @@
+[
+      {
+            "message_id": 201,
+            "sender_id": "user_01",
+            "sender_name": "John Doe",
+            "receiver_id": "user_02",
+            "receiver_name": "Sarah Lee",
+            "message_content": "Hey Sarah! How have you been?",
+            "timestamp": "2024-10-30T09:00:00Z",
+            "read_status": true
+      },
+      {
+            "message_id": 202,
+            "sender_id": "user_02",
+            "sender_name": "Sarah Lee",
+            "receiver_id": "user_01",
+            "receiver_name": "John Doe",
+            "message_content": "Hi John! I've been great, thanks! How about you?",
+            "timestamp": "2024-10-30T09:02:00Z",
+            "read_status": true
+      },
+      {
+            "message_id": 203,
+            "sender_id": "user_03",
+            "sender_name": "Mike Johnson",
+            "receiver_id": "user_04",
+            "receiver_name": "Emily Clark",
+            "message_content": "Hey Emily! Are you free this weekend?",
+            "timestamp": "2024-10-29T15:30:00Z",
+            "read_status": false
+      },
+      {
+            "message_id": 204,
+            "sender_id": "user_04",
+            "sender_name": "Emily Clark",
+            "receiver_id": "user_03",
+            "receiver_name": "Mike Johnson",
+            "message_content": "Hey Mike! Yes, I am. Let’s plan something!",
+            "timestamp": "2024-10-29T16:00:00Z",
+            "read_status": false
+      },
+      {
+            "message_id": 205,
+            "sender_id": "user_05",
+            "sender_name": "Daniel Kim",
+            "receiver_id": "user_01",
+            "receiver_name": "John Doe",
+            "message_content": "Hey John, just wanted to check in on the project.",
+            "timestamp": "2024-10-28T12:45:00Z",
+            "read_status": true
+      }
+]

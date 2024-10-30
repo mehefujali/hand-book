@@ -1,0 +1,30 @@
+[
+      {
+            "id": 1,
+            "name": "Home",
+            "route": "/home",
+            "icon": "home_icon.png",
+            "description": "Navigate to the homepage for latest updates."
+      },
+      {
+            "id": 2,
+            "name": "Posts",
+            "route": "/posts",
+            "icon": "posts_icon.png",
+            "description": "Explore user posts and trending topics."
+      },
+      {
+            "id": 3,
+            "name": "Messages",
+            "route": "/messages",
+            "icon": "messages_icon.png",
+            "description": "Check your messages and chat with friends."
+      },
+      {
+            "id": 4,
+            "name": "Notifications",
+            "route": "/notifications",
+            "icon": "notifications_icon.png",
+            "description": "Stay updated with recent notifications and activity."
+      }
+]

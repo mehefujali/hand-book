@@ -1,0 +1,57 @@
+[
+      {
+            "post_id": 101,
+            "user": "John Doe",
+            "user_id": "user_01",
+            "profile_image": "john_doe.jpg",
+            "content": "Loving the weather today! 🌞 #sunshine",
+            "image": "sunny_day.jpg",
+            "likes": 120,
+            "comments": 15,
+            "timestamp": "2024-10-30T08:30:00Z"
+      },
+      {
+            "post_id": 102,
+            "user": "Sarah Lee",
+            "user_id": "user_02",
+            "profile_image": "sarah_lee.jpg",
+            "content": "Had an amazing hike today! Nature is truly refreshing. 🏞️",
+            "image": "mountain_view.jpg",
+            "likes": 98,
+            "comments": 20,
+            "timestamp": "2024-10-29T16:15:00Z"
+      },
+      {
+            "post_id": 103,
+            "user": "Mike Johnson",
+            "user_id": "user_03",
+            "profile_image": "mike_johnson.jpg",
+            "content": "Just cooked up some homemade pasta! 🍝 #chefmode",
+            "image": "homemade_pasta.jpg",
+            "likes": 250,
+            "comments": 30,
+            "timestamp": "2024-10-28T19:00:00Z"
+      },
+      {
+            "post_id": 104,
+            "user": "Emily Clark",
+            "user_id": "user_04",
+            "profile_image": "emily_clark.jpg",
+            "content": "Book of the month: 'The Silent Patient.' A must-read for all mystery lovers! 📚",
+            "image": "book_recommendation.jpg",
+            "likes": 175,
+            "comments": 25,
+            "timestamp": "2024-10-27T14:45:00Z"
+      },
+      {
+            "post_id": 105,
+            "user": "Daniel Kim",
+            "user_id": "user_05",
+            "profile_image": "daniel_kim.jpg",
+            "content": "Captured the city lights at night. Such a beautiful view! 🌃",
+            "image": "city_lights.jpg",
+            "likes": 310,
+            "comments": 50,
+            "timestamp": "2024-10-26T21:30:00Z"
+      }
+]

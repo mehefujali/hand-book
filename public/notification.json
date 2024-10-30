@@ -1,0 +1,47 @@
+[
+      {
+            "notification_id": 301,
+            "user_id": "user_01",
+            "content": "Sarah Lee liked your post.",
+            "related_post_id": 101,
+            "type": "like",
+            "timestamp": "2024-10-30T10:00:00Z",
+            "read_status": false
+      },
+      {
+            "notification_id": 302,
+            "user_id": "user_02",
+            "content": "Mike Johnson commented on your photo.",
+            "related_post_id": 103,
+            "type": "comment",
+            "timestamp": "2024-10-30T09:45:00Z",
+            "read_status": true
+      },
+      {
+            "notification_id": 303,
+            "user_id": "user_03",
+            "content": "Emily Clark started following you.",
+            "related_user_id": "user_04",
+            "type": "follow",
+            "timestamp": "2024-10-29T18:20:00Z",
+            "read_status": false
+      },
+      {
+            "notification_id": 304,
+            "user_id": "user_04",
+            "content": "Daniel Kim shared your post.",
+            "related_post_id": 105,
+            "type": "share",
+            "timestamp": "2024-10-28T20:15:00Z",
+            "read_status": true
+      },
+      {
+            "notification_id": 305,
+            "user_id": "user_05",
+            "content": "You have a new message from John Doe.",
+            "related_message_id": 205,
+            "type": "message",
+            "timestamp": "2024-10-28T12:50:00Z",
+            "read_status": false
+      }
+]
