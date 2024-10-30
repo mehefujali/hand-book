@@ -2,7 +2,7 @@
       {
             "id": 1,
             "name": "Home",
-            "route": "/home",
+            "route": "/",
             "icon": "home_icon.png",
             "description": "Navigate to the homepage for latest updates."
       },

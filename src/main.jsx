@@ -11,9 +11,13 @@ import Home from './assets/Home/Home';
 const router = createBrowserRouter([
   {
     path: "/",
+
     element: <Home></Home>,
     children: [
-
+      {
+        path: '/posts',
+        element: <h1>Hello i am post</h1>
+      }
     ]
   },
 ]);
